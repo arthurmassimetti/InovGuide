@@ -14,6 +14,7 @@ para saber mais: [clique aqui e vá direto a pagina do Postman](https://www.post
 - **Documentação de APIs**: Gere documentação interativa e compartilhe com sua equipe.
 - **Ambientes Personalizados**: Configure variáveis globais e locais para facilitar testes em diferentes ambientes (desenvolvimento, homologação, produção).
 - **Colaboração em Equipe**: Compartilhe coleções, ambientes e resultados de testes.
+  **para saber como funciona** [clique aqui e descubra as funcionalidades do postman](https://enotas.com.br/blog/postman/)
 
 ## Para que serve?
 
