@@ -36,5 +36,22 @@ Para uma explicação mais detalhada e prática sobre APIs, acesse o arquivo nes
 
 Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas transformam a comunicação entre sistemas, o artigo da Red Hat é uma ótima referência. Ele cobre tópicos como tipos de APIs, exemplos práticos e aplicações no mundo real.
 
+<img src="https://github.com/user-attachments/assets/228e87b5-337e-4137-8df6-4333415449a1" alt="Imagem 1" width="320">
+<img src="https://github.com/user-attachments/assets/d5f735da-d8d4-462c-81b0-b6c5bd14c8eb" alt="Imagem 2" width="320">
+<img src="https://github.com/user-attachments/assets/a02124c0-bb5f-4a33-b0f1-d88b172366cd" alt="Imagem 3" width="320">
+
 👉 [O que são APIs - Red Hat](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#tipos-de-api)
-"""
+👉 [Guia de Coleta de Dados via APIs para Iniciantes](https://www.datageeks.com.br/o-que-e-api/#como-funciona-a-coleta-de-dados-com-apis)
+👉 [Protocolos de API: o que são e quais são eles?](https://www.iugu.com/blog/protocolos-de-api)
+
+# Documentação: Introdução ao Postman
+
+Confira o conteúdo no link: [Introdução ao Postman](https://github.com/arthurmassimetti/InovGuide/blob/main/Docs/PostMan/Readme.md).
+
+## O que você encontrará?
+
+- Explicações detalhadas sobre como utilizar o Postman.
+- Ferramentas e recursos que tornam o Postman essencial para testes e desenvolvimento de APIs.
+- Exemplos práticos e dicas para aumentar sua produtividade.
+
+
