@@ -1,6 +1,7 @@
 # Postman: O que é e para que serve?
 
-![Postman Logo](https://www.postman.com/favicon-32x32.png)
+![image](https://github.com/user-attachments/assets/40912099-efbe-4fb1-81e0-a1c1a40811f6)
+
 
 O **Postman** é uma ferramenta amplamente utilizada por desenvolvedores e equipes de tecnologia para testar, desenvolver e documentar APIs. Ele permite que você crie, envie e analise requisições HTTP de forma simples e eficiente, tornando-se indispensável para o trabalho com integrações de sistemas.
 
