@@ -13,3 +13,18 @@ Para conhecer mais detalhes sobre os principais tipos de APIs (REST, SOAP, Graph
 👉 [API-Guide.pdf](https://github.com/user-attachments/files/17928382/API-Guide.pdf)
 
 ---
+
+# **Protocolos de API**
+
+APIs funcionam com diferentes **protocolos** que definem como a comunicação entre sistemas ocorre. Cada protocolo possui suas próprias regras e vantagens, como REST, SOAP e RPC. Se você deseja aprender mais sobre os principais protocolos de API, como funcionam e onde são aplicados, confira o artigo abaixo:
+
+👉 [Protocolos de API - Blog Iugu](https://www.iugu.com/blog/protocolos-de-api)
+
+---
+
+# **Mais sobre APIs**
+
+Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas transformam a comunicação entre sistemas, o artigo da Red Hat é uma ótima referência. Ele cobre tópicos como tipos de APIs, exemplos práticos e aplicações no mundo real.
+
+👉 [O que são APIs - Red Hat](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#tipos-de-api)
+"""
