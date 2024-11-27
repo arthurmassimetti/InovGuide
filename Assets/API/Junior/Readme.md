@@ -41,7 +41,9 @@ Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas tr
 <img src="https://github.com/user-attachments/assets/a02124c0-bb5f-4a33-b0f1-d88b172366cd" alt="Imagem 3" width="320">
 
 👉 [O que são APIs - Red Hat](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#tipos-de-api)
+
 👉 [Guia de Coleta de Dados via APIs para Iniciantes](https://www.datageeks.com.br/o-que-e-api/#como-funciona-a-coleta-de-dados-com-apis)
+
 👉 [Protocolos de API: o que são e quais são eles?](https://www.iugu.com/blog/protocolos-de-api)
 
 # Documentação: Introdução ao Postman
