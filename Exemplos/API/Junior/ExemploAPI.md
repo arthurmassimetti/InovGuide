@@ -1,4 +1,4 @@
-## - **Passo 1: Criar o ambiente do projeto**
+## **Passo 1: Criar o ambiente do projeto**
 # Crie uma pasta para o projeto e navegue até ela:
 
 ```bash
