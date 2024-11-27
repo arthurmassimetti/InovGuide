@@ -5,6 +5,8 @@
 
 O **Postman** é uma ferramenta amplamente utilizada por desenvolvedores e equipes de tecnologia para testar, desenvolver e documentar APIs. Ele permite que você crie, envie e analise requisições HTTP de forma simples e eficiente, tornando-se indispensável para o trabalho com integrações de sistemas.
 
+para saber mais: [clique aqui e vá direto a pagina do Postman](https://www.postman.com/product/what-is-postman/)
+
 ## Principais Funcionalidades
 
 - **Testes de API**: Envie requisições HTTP (GET, POST, PUT, DELETE) e visualize as respostas.
