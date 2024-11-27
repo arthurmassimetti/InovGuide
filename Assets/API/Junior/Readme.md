@@ -38,7 +38,7 @@ Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas tr
 
 <img src="https://github.com/user-attachments/assets/228e87b5-337e-4137-8df6-4333415449a1" alt="Imagem 1" width="320">
 <img src="https://github.com/user-attachments/assets/d5f735da-d8d4-462c-81b0-b6c5bd14c8eb" alt="Imagem 2" width="320">
-<img src="https://github.com/user-attachments/assets/a02124c0-bb5f-4a33-b0f1-d88b172366cd" alt="Imagem 3" width="320">
+<img src="https://github.com/user-attachments/assets/a02124c0-bb5f-4a33-b0f1-d88b172366cd" alt="Imagem 3" width="310">
 
 👉 [O que são APIs - Red Hat](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#tipos-de-api)
 
