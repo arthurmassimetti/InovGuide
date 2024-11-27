@@ -1,4 +1,4 @@
-# O que é API?
+# **O que é API?**
 
 API (Application Programming Interface) é um conjunto de definições e protocolos que permite a comunicação entre sistemas de software. Funciona como uma ponte que estabelece regras para requisições e respostas, garantindo troca de informações de forma consistente e segura.
 
@@ -6,28 +6,10 @@ Ela atua como um "contrato digital", especificando como um desenvolvedor pode in
 
 ---
 
-# Principais tipos de APIs
+# **Principais Tipos de APIs**
 
-## APIs REST (Representational State Transfer)
-- Baseadas em princípios REST e utilizam protocolos HTTP.
-- Ideais para sistemas modernos devido à sua simplicidade e uso de JSON para troca de dados.
-- Exemplos de métodos: `GET`, `POST`, `PUT`, `DELETE`.
+Para conhecer mais detalhes sobre os principais tipos de APIs (REST, SOAP, GraphQL, WebSocket e RPC) e suas diferenças, acesse o material no link abaixo:
 
-## APIs SOAP (Simple Object Access Protocol)
-- Um protocolo mais antigo e robusto, baseado em XML.
-- Oferece maior segurança e confiabilidade, sendo usado em sistemas legados e transações críticas.
+👉 [API-Guide.pdf](https://github.com/user-attachments/files/17928382/API-Guide.pdf)
 
-## APIs GraphQL
-- Uma alternativa ao REST que permite consultas específicas.
-- O cliente solicita exatamente os dados que precisa, reduzindo sobrecarga.
-- Ideal para aplicações complexas e com múltiplas dependências.
-
-## APIs de WebSocket
-- Permitem comunicação bidirecional em tempo real entre cliente e servidor.
-- Usadas em aplicações que exigem atualizações constantes, como chats e streaming.
-
-## APIs de RPC (Remote Procedure Call)
-- Chamadas remotas para executar funções em outro sistema.
-- Simples e eficiente para integração de sistemas com foco em desempenho.
-
-
+---
