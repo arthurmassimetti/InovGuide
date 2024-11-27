@@ -2,12 +2,12 @@
 # Crie uma pasta para o projeto e navegue até ela:
 
 ```bash
-mkdir api-example-native
-cd api-example-native
+mkdir api-example-native - criar a pasta no diretorio que estiver
+cd api-example-native - mudar do diretorio que está para a pasta que foi criada
 ```
 
 ## **Inicialize o projeto:**
 
 ```bash
-npm init -y
+npm init -y - instala todas as dependencias do node de forma eficiente com o -y
 ```
