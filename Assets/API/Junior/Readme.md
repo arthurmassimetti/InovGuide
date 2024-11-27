@@ -46,6 +46,7 @@ Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas tr
 
 👉 [Protocolos de API: o que são e quais são eles?](https://www.iugu.com/blog/protocolos-de-api)
 
+---
 # Documentação: Introdução ao Postman
 
 Confira o conteúdo no link: [Introdução ao Postman](https://github.com/arthurmassimetti/InovGuide/blob/main/Docs/PostMan/Readme.md).
@@ -56,4 +57,4 @@ Confira o conteúdo no link: [Introdução ao Postman](https://github.com/arthur
 - Ferramentas e recursos que tornam o Postman essencial para testes e desenvolvimento de APIs.
 - Exemplos práticos e dicas para aumentar sua produtividade.
 
-
+---
