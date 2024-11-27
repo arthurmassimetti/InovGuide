@@ -12,7 +12,7 @@ Para conhecer mais detalhes sobre os principais tipos de APIs (REST, SOAP, Graph
 
 👉 [API-Guide.pdf](https://github.com/user-attachments/files/17928382/API-Guide.pdf)
 
-<img src="![image](https://github.com/user-attachments/assets/a6f55963-7f51-4ebe-af2a-39826e952367)" alt="Imagem 1" width="100">
+<img src="https://github.com/user-attachments/assets/a6f55963-7f51-4ebe-af2a-39826e952367" alt="Imagem 1" width="100">
 <img src="url_da_imagem_2" alt="Imagem 2" width="100">
 <img src="url_da_imagem_3" alt="Imagem 3" width="100">
 ---
