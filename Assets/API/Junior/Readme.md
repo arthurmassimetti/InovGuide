@@ -12,9 +12,9 @@ Para conhecer mais detalhes sobre os principais tipos de APIs (REST, SOAP, Graph
 
 👉 [API-Guide.pdf](https://github.com/user-attachments/files/17928382/API-Guide.pdf)
 
-<img src="https://github.com/user-attachments/assets/a6f55963-7f51-4ebe-af2a-39826e952367" alt="Imagem 1" width="100">
-<img src="url_da_imagem_2" alt="Imagem 2" width="100">
-<img src="url_da_imagem_3" alt="Imagem 3" width="100">
+<img src="https://github.com/user-attachments/assets/a6f55963-7f51-4ebe-af2a-39826e952367" alt="Imagem 1" width="300">
+<img src="https://github.com/user-attachments/assets/6de8f264-46d4-474d-a10e-535a6e3b37d9" alt="Imagem 2" width="400">
+<img src="https://github.com/user-attachments/assets/dea99e06-e501-4df2-a6f2-b09d12d601e7" alt="Imagem 3" width="500">
 ---
 
 # **Protocolos de API**
