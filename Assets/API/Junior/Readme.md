@@ -26,6 +26,12 @@ APIs funcionam com diferentes **protocolos** que definem como a comunicação en
 
 ---
 
+# Exemplos de API
+
+Para uma explicação mais detalhada e prática sobre APIs, acesse o arquivo neste [link](https://github.com/arthurmassimetti/InovGuide/blob/main/Exemplos/API/Junior/ExemploAPI.md).
+
+---
+
 # **Mais sobre APIs**
 
 Para uma explicação detalhada sobre o que são APIs, seus tipos e como elas transformam a comunicação entre sistemas, o artigo da Red Hat é uma ótima referência. Ele cobre tópicos como tipos de APIs, exemplos práticos e aplicações no mundo real.
