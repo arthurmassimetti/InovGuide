@@ -9,6 +9,8 @@ para saber mais: [clique aqui e vá direto a pagina do Postman](https://www.post
 
 ## Principais Funcionalidades
 
+![image](https://github.com/user-attachments/assets/04aef409-02fb-4441-8a16-50598499ed97)
+
 - **Testes de API**: Envie requisições HTTP (GET, POST, PUT, DELETE) e visualize as respostas.
 - **Automação de Testes**: Crie coleções de requisições e execute testes automatizados.
 - **Documentação de APIs**: Gere documentação interativa e compartilhe com sua equipe.
